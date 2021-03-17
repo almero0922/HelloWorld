@@ -11,9 +11,12 @@
     <li>lasagna</li>
   </ul>
   <p>Top 3 things cats hate:</p>
-<ol>
-  <li>people</li>
-  <li>not being loved</li>
-  <li>water</li>
-</ol>
+  <ol>
+    <li>flea treatment</li>
+    <li>thunder</li>
+    <li>other cats</li>
+  </ol>
+
+  <input type = "text">
+
 </main>
