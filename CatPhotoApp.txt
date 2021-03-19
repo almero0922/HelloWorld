@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">  
+
 <style>
   .red-text {
     color: red;
@@ -7,12 +9,9 @@
     font-size: 16px;
     font-family: monospace;
   }
-
   h2{
-    font-family: sans-serif;
+    font-family: lobster;
   }
-
-  
 </style>
 
 <h2 class="red-text">CatPhotoApp</h2>
